@@ -1,4 +1,25 @@
-<h1 id="youre-an-analyst-for-an-existing-company-instacart-an-online-grocery-store-that-operates-through-an-app">You’re an analyst for an existing company, Instacart, an online grocery store that operates through an app.</h1>
-<p>Instacart already has very good sales, but they want to uncover more information about their sales patterns. Your task is to perform an initial data and exploratory analysis of some of their data in order
-to derive insights and suggest strategies for better segmentation based on
-the provided criteria.</p>
+# Instacart Basket Analysis
+
+You’re an analyst for an existing company, Instacart, an online grocery store
+that operates through an app.
+
+![Alt Text](my-image.jpg)
+
+## About
+
+Instacart already has very good sales, but they want to uncover more information about their sales patterns. 
+
+## Goals
+
+- **Goal 1** – Perform an initial data and exploratory analysis of some of their data in order
+to derive insights and suggest strategies
+- **Goal 2** – Create a report that describes your analysis methodology, your results, and your
+recommendations for Instacart stakeholders
+
+## Source
+
+Citation: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on 10/16/24.
+
+## Contact
+
+For any questions, please contact [Gizem Kilic](mailto:gk.gizemkilic@gmail.com).
